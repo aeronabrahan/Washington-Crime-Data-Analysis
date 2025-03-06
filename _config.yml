@@ -1,1 +1,28 @@
-
+# Theme and Plugins
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+ - jekyll-remote-theme
+# Repository Metadata
+title: "Washington Crime Data Analysis"
+description: "A Power BI dashboard providing insights into crime trends, severity, and resolution in Washington, D.C."
+author: "Aeron Abrahan"
+github_username: "aeronabrahan"
+# Navigation Settings
+show_downloads: true
+include:
+ - README.md
+ - assets/datasets
+ - assets/images
+ - assets/pbi
+# Repository Settings
+repository: "aeronabrahan/<>"
+url: "https://github.com/aeronabrahan/Washington-Crime-Data-Analysis"
+# SEO and Social Sharing
+social:
+ name: "Jan Aeron Abrahan"
+ links:
+   - "https://github.com/aeronabrahan"
+   - "https://linkedin.com/in/jagabrahan"
+# Custom Options
+markdown: kramdown
+permalink: pretty
