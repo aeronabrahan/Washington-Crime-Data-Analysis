@@ -5,7 +5,7 @@ plugins:
 # Repository Metadata
 title: "Washington Crime Data Analysis"
 description: "A Power BI dashboard providing insights into crime trends, severity, and resolution in Washington, D.C."
-author: "Aeron Abrahan"
+author: "Jan Aeron Abrahan"
 github_username: "aeronabrahan"
 # Navigation Settings
 show_downloads: true
@@ -15,7 +15,7 @@ include:
  - assets/images
  - assets/pbi
 # Repository Settings
-repository: "aeronabrahan/<>"
+repository: "aeronabrahan/Washington-Crime-Data-Analysis"
 url: "https://github.com/aeronabrahan/Washington-Crime-Data-Analysis"
 # SEO and Social Sharing
 social:
