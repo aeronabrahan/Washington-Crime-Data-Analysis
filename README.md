@@ -145,8 +145,8 @@ I’m just starting my Data Analytics career transition journey, and this is my 
 ---
 
 ## Connect with Me
-📂 **GitHub Profile**: [github.com/aeronabrahan](https://github.com/aeronabrahan)  
-🔗 **LinkedIn Profile**: [linkedin.com/in/jagabrahan](https://linkedin.com/in/jagabrahan)  
-📧 **Email Address**: [aerongabrahan@gmail.com](mailto:aerongabrahan@gmail.com)  
+📂 GitHub Profile: [github.com/aeronabrahan](https://github.com/aeronabrahan)  
+🔗 LinkedIn Profile: [linkedin.com/in/jagabrahan](https://linkedin.com/in/jagabrahan)  
+📧 Email Address: [aerongabrahan@gmail.com](mailto:aerongabrahan@gmail.com)  
 
 ---
